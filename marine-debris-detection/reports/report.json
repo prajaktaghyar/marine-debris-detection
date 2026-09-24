@@ -1,0 +1,164 @@
+[
+    {
+        "timestamp": "2026-09-16T22:41:41.629552",
+        "status": "DETECTED",
+        "message": "Object detected",
+        "detections": [
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.8554,
+                "confidence_percent": 85.54,
+                "confidence_level": "HIGH",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 599,
+                    "y1": 12,
+                    "x2": 850,
+                    "y2": 626
+                }
+            },
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.6923,
+                "confidence_percent": 69.23,
+                "confidence_level": "MEDIUM",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 729,
+                    "y1": 473,
+                    "x2": 1024,
+                    "y2": 1024
+                }
+            },
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.6236,
+                "confidence_percent": 62.36,
+                "confidence_level": "MEDIUM",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 200,
+                    "y1": 442,
+                    "x2": 473,
+                    "y2": 1024
+                }
+            }
+        ],
+        "best_class": "shipwreck",
+        "best_confidence": 85.54,
+        "result_image": "/results/detected_processed_20260916_224137_802175_WhatsApp_Image_2026-09-16_at_7.47.16_PM.jpg",
+        "filename": "WhatsApp_Image_2026-09-16_at_7.47.16_PM.jpeg",
+        "input_image": "/uploads/20260916_224137_802175_WhatsApp_Image_2026-09-16_at_7.47.16_PM.jpeg"
+    },
+    {
+        "timestamp": "2026-09-16T22:49:58.243130",
+        "status": "DETECTED",
+        "message": "Object detected",
+        "detections": [
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.8501,
+                "confidence_percent": 85.01,
+                "confidence_level": "HIGH",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 178,
+                    "y1": 467,
+                    "x2": 465,
+                    "y2": 1024
+                }
+            }
+        ],
+        "best_class": "shipwreck",
+        "best_confidence": 85.01,
+        "result_image": "/results/detected_processed_20260916_224957_761031_Bluefin-9-Sonar-Data.jpg",
+        "filename": "Bluefin-9-Sonar-Data.jpg",
+        "input_image": "/uploads/20260916_224957_761031_Bluefin-9-Sonar-Data.jpg"
+    },
+    {
+        "timestamp": "2026-09-16T22:51:11.497586",
+        "status": "DETECTED",
+        "message": "Object detected",
+        "detections": [
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.7612,
+                "confidence_percent": 76.12,
+                "confidence_level": "HIGH",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 562,
+                    "y1": 169,
+                    "x2": 873,
+                    "y2": 707
+                }
+            },
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.6772,
+                "confidence_percent": 67.72,
+                "confidence_level": "MEDIUM",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 270,
+                    "y1": 7,
+                    "x2": 324,
+                    "y2": 45
+                }
+            },
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.6015,
+                "confidence_percent": 60.15,
+                "confidence_level": "MEDIUM",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 513,
+                    "y1": 10,
+                    "x2": 532,
+                    "y2": 76
+                }
+            },
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.5639,
+                "confidence_percent": 56.39,
+                "confidence_level": "MEDIUM",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 387,
+                    "y1": 440,
+                    "x2": 588,
+                    "y2": 1024
+                }
+            },
+            {
+                "class_id": 0,
+                "class_name": "shipwreck",
+                "confidence": 0.5055,
+                "confidence_percent": 50.55,
+                "confidence_level": "MEDIUM",
+                "status": "DETECTED",
+                "bbox": {
+                    "x1": 766,
+                    "y1": 0,
+                    "x2": 1023,
+                    "y2": 232
+                }
+            }
+        ],
+        "best_class": "shipwreck",
+        "best_confidence": 76.12,
+        "result_image": "/results/detected_processed_20260916_225111_259993_WhatsApp_Image_2026-09-16_at_10.50.07_PM.jpg",
+        "filename": "WhatsApp_Image_2026-09-16_at_10.50.07_PM.jpeg",
+        "input_image": "/uploads/20260916_225111_259993_WhatsApp_Image_2026-09-16_at_10.50.07_PM.jpeg"
+    }
+]

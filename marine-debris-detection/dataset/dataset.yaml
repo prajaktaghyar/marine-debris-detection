@@ -1,0 +1,17 @@
+path: C:\Users\praja\Downloads\Sonar\marine-debris-detection\dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 11
+names:
+- bottle
+- can
+- chain
+- drink-carton
+- hook
+- propeller
+- shampoo-bottle
+- standing-bottle
+- tire
+- valve
+- shipwreck
